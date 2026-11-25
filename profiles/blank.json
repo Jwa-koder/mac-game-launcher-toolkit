@@ -1,0 +1,11 @@
+{
+  "name": "my-game",
+  "steam_app_id": null,
+  "executable": null,
+  "wine_binary": "",
+  "prefix": "",
+  "fps_cap": 30,
+  "steam_workaround": false,
+  "dxvk_scope": "none",
+  "game_args": []
+}

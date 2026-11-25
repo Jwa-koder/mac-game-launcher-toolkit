@@ -1,0 +1,18 @@
+{
+  "wine_binary": "",
+  "prefix": "",
+  "fps_cap": 30,
+  "steam_workaround": true,
+  "name": "lethal-company",
+  "steam_app_id": "1966720",
+  "executable": "Lethal Company.exe",
+  "dxvk_scope": "game",
+  "game_args": [
+    "-screen-width",
+    "800",
+    "-screen-height",
+    "450",
+    "-screen-fullscreen",
+    "0"
+  ]
+}
