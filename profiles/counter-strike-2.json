@@ -1,0 +1,21 @@
+{
+  "wine_binary": "",
+  "prefix": "",
+  "fps_cap": 30,
+  "steam_workaround": true,
+  "name": "counter-strike-2",
+  "steam_app_id": "730",
+  "executable": "game/bin/win64/cs2.exe",
+  "dxvk_scope": "system",
+  "game_args": [
+    "-fullscreen",
+    "-w",
+    "960",
+    "-h",
+    "540",
+    "+fps_max",
+    "30",
+    "+fps_max_ui",
+    "30"
+  ]
+}
